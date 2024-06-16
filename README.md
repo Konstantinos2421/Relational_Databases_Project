@@ -16,3 +16,5 @@ The **"travel_agency_app"** folder of the project contains Java code that implem
   
 **Execution Info:**  
 Firtly, in order to run the app having the MySQL database data available, you will have to create the database locally because it is not public in a server. Also you will have to change the database connection properties in the Database Java class of the project according to your local database credentials. Finally, in order to run the app you will have to run the LoginPage Java class.
+  
+***NOTE:*** The GUI of the app is in initial state and it is very simple because the main purpose of the project was learning MySQL database management and also learning how to interact with a database through the app and not learning Java programming.
