@@ -14,5 +14,5 @@ The **"database"** folderof the project contains files with code for creating an
   
 The **"travel_agency_app"** folder of the project contains Java code that implements the app from which we manage the travel agency. The app was made with the Netbeans IDE which supports GUI designer.
   
-**Execution Info:**
+**Execution Info:**  
 Firtly, in order to run the app having the MySQL database data available, you will have to create the database locally because it is not public in a server. Also you will have to change the database connection properties in the Database Java class of the project according to your local database credentials. Finally, in order to run the app you will have to run the LoginPage Java class.
