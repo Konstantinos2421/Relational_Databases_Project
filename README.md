@@ -5,7 +5,7 @@ In this project a management system for a travel agency is implemented and consi
 - MySQL Database
 - GUI App
   
-The **"database"** folderof the project contains files with code for creating and managing the database:
+The **"database"** folder of the project contains files with code for creating and managing the database:
 - travel_agency.sql: It contains SQL code for the creation of the database.
 - procedures.sql: It contains SQL code for the procedures of the database.
 - triggers.sql: It contains SQL code for the triggers of the database.
