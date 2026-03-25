@@ -1,5 +1,5 @@
 # Relational Databases Project
-A project about MySQL database management.
+MySQL database development and management for a travel agency.
   
 In this project a management system for a travel agency is implemented and consists of two main parts:
 - MySQL Database
